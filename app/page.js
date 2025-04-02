@@ -16,7 +16,7 @@ export default function Home() {
           textAlign: 'center',
           padding: '0 20px'
         }}>
-          <h1>Work in Progress</h1>
+          <h1>Work </h1>
           <p>Il sito è attualmente in fase di sviluppo, sarà presto online!</p>
         </div>
       </>
